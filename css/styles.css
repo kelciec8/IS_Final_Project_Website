@@ -599,7 +599,8 @@ progress {
 }
 
 .img-fluid {
-  max-width: 100%;
+  max-width: 70%;
+  height: 25%;
   height: auto;
 }
 
@@ -10963,7 +10964,7 @@ p {
 }
 @media (min-width: 992px) {
   .intro .intro-img {
-    width: 75%;
+    width: 60%;
     float: right;
   }
   .intro .intro-text {
